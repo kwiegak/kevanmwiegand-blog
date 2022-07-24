@@ -1,5 +1,5 @@
 {
-  "name": "Kevan Wiegand Blog",
+  "name": "kevanmwiegandblog",
   "description": "React and Redux Kevan Wiegand",
   "scripts": {
     "start": "run-p start:dev start:api",
