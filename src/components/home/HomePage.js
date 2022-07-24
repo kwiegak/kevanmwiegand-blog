@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const HomePage = () => (
   <div className="jumbotron">
-    <h1>Kevan Mathias Wiegand</h1>
+    <h1>Kevan M. Wiegand</h1>
     <p>Software Engineer, Author, and Musician.</p>
     <Link to="photos" className="btn btn-primary btn-lg">
       See Photos
