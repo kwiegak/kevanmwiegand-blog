@@ -12,6 +12,8 @@
     "serve:build": "http-server ./build"
   },
   "dependencies": {
+    "@aws-amplify/ui-react": "^1.2.26",
+    "aws-amplify": "^4.3.30",
     "bootstrap": "5.0.2",
     "immer": "9.0.5",
     "prop-types": "15.7.2",

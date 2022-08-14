@@ -1,0 +1,32 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify39c5a260aaff4-staging-145608-authRole",
+      "UnauthRoleArn": "arn:aws:iam::178936723257:role/amplify-amplify39c5a260aaff4-staging-145608-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::178936723257:role/amplify-amplify39c5a260aaff4-staging-145608-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplify39c5a260aaff4-staging-145608-deployment",
+      "UnauthRoleName": "amplify-amplify39c5a260aaff4-staging-145608-unauthRole",
+      "StackName": "amplify-amplify39c5a260aaff4-staging-145608",
+      "StackId": "arn:aws:cloudformation:us-east-1:178936723257:stack/amplify-amplify39c5a260aaff4-staging-145608/3aacd430-1be1-11ed-a291-0a11a92bf79b",
+      "AmplifyAppId": "d1melk1k08jq3f"
+    },
+    "categories": {
+      "auth": {
+        "kevanmwiegandblogd5a8f0fd": {
+          "userPoolId": "us-east-1_WtN8TSsIG",
+          "userPoolName": "kevanmwiegandblogaac23a28_userpool_aac23a28-dev",
+          "webClientId": "6edl1vfq9mnu8ladeghbfv620i",
+          "nativeClientId": "3vt2pdbkc8qtjljr5e6l8ms4sv",
+          "identityPoolId": "us-east-1:88984e74-41d6-4fb0-bce4-b8fd670ff664",
+          "identityPoolName": "kevanmwiegandblogaac23a28_identitypool_aac23a28__dev",
+          "allowUnauthenticatedIdentities": false,
+          "authRoleArn": "arn:aws:iam::178936723257:role/amplify-kevanmwiegandblog-dev-100723-authRole",
+          "authRoleName": "amplify-kevanmwiegandblog-dev-100723-authRole",
+          "unauthRoleArn": "arn:aws:iam::178936723257:role/amplify-kevanmwiegandblog-dev-100723-unauthRole",
+          "unauthRoleName": "amplify-kevanmwiegandblog-dev-100723-unauthRole"
+        }
+      }
+    }
+  }
+}
